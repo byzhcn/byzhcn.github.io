@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Buyuan Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I received the B.S. degree from the School of Computer Science, Beijing Institute of Technology in 2022. I am currently pursuing the M.S. degree from the Academy of Military Science. My research interests are signal processing, human-computer interaction and sensor applications."
+  bio              : "I received the B.S. degree from the School of Computer Science, Beijing Institute of Technology in 2022. I am currently pursuing the M.S. degree from the Academy of Military Science. \n My research interests are signal processing, human-computer interaction and sensor applications."
   location         : "Beijing, China"
   email            :
   links:
