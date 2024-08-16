@@ -13,8 +13,9 @@ url: https://byzhcn.github.io/
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
-github: https://github.com/byzhcn
-email: byzhcn@gmail.com
+Google Scholar: https://scholar.google.com/citations?user=-JoczBoAAAAJ&hl=zh-CN&authuser=1
+Github: https://github.com/byzhcn
+Email: byzhcn@gmail.com
 
 gems:
   - jekyll-seo-tag
